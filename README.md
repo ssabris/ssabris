@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Arquiteta e Urbanista migrando para Back-End</p>
+<p align="left">Arquiteta e Urbanista migrando para TI</p>
 
 ###
 
