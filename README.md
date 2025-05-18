@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">Arquiteta e Urbanista migrando para TI</p>
-<p align="left">Cursando EmbarcaTech IFMA - Sistemas Embarcados</p>
+<p align="left">Cuersando ADS - Análise e Desenvolvimento de Sistemas - FATEC </p>
+<p align="left">Cursei EmbarcaTech IFMA - Sistemas Embarcados (Nov 2024 - Fev 25)</p>
 
 ###
 
