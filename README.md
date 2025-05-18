@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Cuersando ADS - Análise e Desenvolvimento de Sistemas - FATEC </p>
-<p align="left">Cursei EmbarcaTech IFMA - Sistemas Embarcados (Nov 2024 - Fev 25)</p>
+<p align="left">Cursei EmbarcaTech IFMA - Sistemas Embarcados (Nov 24 - Fev 25)</p>
 
 ###
 
