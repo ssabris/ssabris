@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Cuersando ADS - Análise e Desenvolvimento de Sistemas - FATEC </p>
+<p align="left">Cursando ADS - Análise e Desenvolvimento de Sistemas - FATEC (2/6) </p>
+<p align="left">Cursando Bootcamp de Análise de Dados - Generation Brasil </p>
 <p align="left">Cursei EmbarcaTech IFMA - Sistemas Embarcados (Nov 24 - Fev 25)</p>
 
 ###
