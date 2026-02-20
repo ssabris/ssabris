@@ -1,4 +1,4 @@
-<h2 align="left">Olá mundo👋! Eu sou Sabrina Bernardi</h2>
+<h2 align="left">Olá mundo👋! Eu sou Sabrina </h2>
 
 ###
 
