@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Cursando ADS - Análise e Desenvolvimento de Sistemas - FATEC (3/6) </p>
-<p align="left">Cursei Bootcamp de Análise de Dados - Generation Brasil </p>
+<p align="left">Cursei Bootcamp de Análise de Dados - Generation Brasil (Nov 25 - Fev 26) </p>
 <p align="left">Cursei EmbarcaTech IFMA - Sistemas Embarcados (Nov 24 - Fev 25)</p>
 
 ###
