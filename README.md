@@ -1,5 +1,5 @@
-<h1 align="center">Olá mundo 👾! Eu sou a Sabrina </h1>
-<h3 align="center">Desenvolvedora Backend & Analista de Dados</h3>
+<h1 align="center">Olá mundo 👾! Sabrina, aqui </h1>
+<h3 align="center"> Analista de Dados</h3>
 
 <p align="center">
   Com background em Arquitetura e Gestão de Projetos, trago uma visão sistêmica e analítica para a tecnologia. Atualmente atuo em Planejamento e Controle de Produção (PCP), unindo melhoria de processos, padronização e análise de dados para tomada de decisões.
