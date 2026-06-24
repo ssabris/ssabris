@@ -1,8 +1,8 @@
 <h1 align="center">Olá mundo 👾 </h1>
-<h3 align="center"> Analista de Dados</h3>
+<h3 align="center"> Analista de Dados e Operações</h3>
 
 <p align="center">
-  Com background em Arquitetura e Gestão de Projetos, trago uma visão sistêmica e analítica para a tecnologia. Atualmente atuo em Planejamento e Controle de Produção (PCP), unindo melhoria de processos, padronização e análise de dados para tomada de decisões.
+  Com background em Arquitetura e Gestão de Projetos, trago visão sistêmica e raciocínio analítico para a tecnologia. Atuo em Planejamento e Controle de Produção (PCP), unindo melhoria de processos, padronização e análise de dados para apoiar a tomada de decisões.
 </p>
 
 ---
@@ -10,10 +10,9 @@
 ### 👩‍💻 Sobre mim
 
 - 🎓 **Formação Tecnológica:** Cursando ADS na FATEC Ipiranga (3/6)
-- 📊 **Curso Extracurricular:** Bootcamp de Análise de Dados - Generation Brasil (nov.25 - fev.26)
-- 🔭 **Atualmente construindo:** Um Editor de Texto em C focado em alocação dinâmica de memória (implementando Pilhas e Filas para *Undo/Redo*). 
+- 📊 **Curso Extracurricular:** Bootcamp de Análise de Dados - Generation Brasil (nov/25 - fev/26)
 - 🌱 **Aprimorando conhecimentos em:** Arquiteturas de Big Data, BI, AWS (Glue, Athena, QuickSight), Orientação a Objetos (Java/Python) e Banco de Dados (SQL).
-- 🎯 **Foco atual:** Crescimento e consolidação na área de Planejamento e Engenharia de Dados.
+- 🎯 **Foco atual:** crescimento e consolidação em Planejamento e Controle de Produção, com aplicação prática de Análise de Dados.
 
 ### 🛠️ Minha Stack
 
