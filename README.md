@@ -1,5 +1,5 @@
 <h1 align="center">Olá mundo 👾 </h1>
-<h3 align="center"> Analista de Dados e Operações</h3>
+<h3 align="center"> Analista de Dados</h3>
 
 <p align="center">
   Com background em Arquitetura e Gestão de Projetos, trago visão sistêmica e raciocínio analítico para a tecnologia. Atuo em Planejamento e Controle de Produção (PCP), unindo melhoria de processos, padronização e análise de dados para apoiar a tomada de decisões.
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🎓 **Formação Tecnológica:** Cursando ADS na FATEC Ipiranga (3/6)
+- 🎓 **Formação Tecnológica:** Cursando ADS na FATEC Ipiranga (4/6)
 - 📊 **Curso Extracurricular:** Bootcamp de Análise de Dados - Generation Brasil (nov/25 - fev/26)
 - 🌱 **Aprimorando conhecimentos em:** Arquiteturas de Big Data, BI, AWS (Glue, Athena, QuickSight), Orientação a Objetos (Java/Python) e Banco de Dados (SQL).
 - 🎯 **Foco atual:** crescimento e consolidação em Planejamento e Controle de Produção, com aplicação prática de Análise de Dados.
