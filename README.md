@@ -1,20 +1,18 @@
-<h1 align="center">Olá mundo 👾 </h1>
-<h3 align="center"> Analista de Dados</h3>
+# Olá mundo 👾
 
-<p align="center">
-  Com background em Arquitetura e Gestão de Projetos, trago visão sistêmica e raciocínio analítico para a tecnologia. Atuo em Planejamento e Controle de Produção (PCP), unindo melhoria de processos, padronização e análise de dados para apoiar a tomada de decisões.
-</p>
+### Estagiária de Dados | PCP Operações Jurídicas
 
----
+Transformo dados operacionais em indicadores que apoiam o planejamento de diferentes gerências no Itaú Unibanco. Antes da tecnologia, fui arquiteta e liderei projetos de varejo do estudo de viabilidade ao projeto executivo. Mudar de carreira me mostrou que aprender algo novo não é começar do zero, é expandir o contexto.
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre mim
 
-- 🎓 **Formação Tecnológica:** Cursando ADS na FATEC Ipiranga (4/6)
-- 📊 **Curso Extracurricular:** Bootcamp de Análise de Dados - Generation Brasil (nov/25 - fev/26)
-- 🌱 **Aprimorando conhecimentos em:** Arquiteturas de Big Data, BI, AWS (Glue, Athena, QuickSight), Orientação a Objetos (Java/Python) e Banco de Dados (SQL).
-- 🎯 **Foco atual:** crescimento e consolidação em Planejamento e Controle de Produção, com aplicação prática de Análise de Dados.
-
-### 🛠️ Minha Stack
+- 💼 **Hoje:** padronizo métricas entre áreas, mapeio processos e substituo controles manuais por painéis, sempre buscando o que pode ser automatizado
+- 🛠️ **Ferramentas:** SQL, Python, AWS Glue e Amazon QuickSight
+- 🏅 **Certificação:** AWS Certified AI Practitioner
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na FATEC Ipiranga (4/6, previsão dez/2027)
+- 📊 **Extracurricular:** Bootcamp de Análise de Dados - Generation Brasil (nov/25 - fev/26)
+- 🌱 **Estudando:** Inteligência Artificial, em especial IA generativa, RAG e agentes
+- 🧭 **Da arquitetura eu trouxe:** visão de projeto, diálogo com quem está envolvido e curiosidade para seguir ampliando o contexto
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
